@@ -22,7 +22,7 @@ A sleek and responsive To-Do List built with React  and Tailwind CSS, designed t
 
 
 📂 Project Structure
-
+<pre>
 To-Do-List/
 ├── public/
 │   └── index.html
@@ -39,3 +39,4 @@ To-Do-List/
 │   └── index.css
 ├── package.json
 └── README.md
+</pre>
